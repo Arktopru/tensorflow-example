@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/example/aclImdb" />
       <excludeFolder url="file://$MODULE_DIR$/example/saved_model" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (tf)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="tensors" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
